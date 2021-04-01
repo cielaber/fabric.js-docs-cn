@@ -81,7 +81,7 @@ import { fabric } from "fabric";
 - [Introduction to Fabric.js: Part 7 - Subclasses](http://fabricjs.com/subclassing-tutorial)/[Fabric.js简介：第7部分-子类](https://github.com/eternitywith/fabric.js-docs-cn/blob/master/Tutorial/Introduction%20to%20Fabric.js:%20Part%207%20-%20Subclasses.md)
   - Subclassing Textbox for use bitmap fonts(子类化文本框以使用位图字体)
 - Introduction to Fabric.js: Part 8 - Clipping with clipPaths/[Fabric.js简介：第8部分-使用clipPaths进行剪辑](https://github.com/eternitywith/fabric.js-docs-cn/blob/master/Tutorial/Introduction%20to%20Fabric.js:%20Part%208%20-%20Clipping%20with%20clipPaths%20.md)
-- [ClipPaths basics](http://fabricjs.com/clippath-part1)(ClipPaths基础)
+  - [ClipPaths basics](http://fabricjs.com/clippath-part1)(ClipPaths基础)
   - [ClipPaths nesting and more complex scenario](http://fabricjs.com/clippath-part2)(ClipPaths嵌套和更复杂的场景)
   - [ClipPaths on canvas](http://fabricjs.com/clippath-part3)(画布上的ClipPaths)
   - [ClipPaths and absolute position](http://fabricjs.com/clippath-part4)(ClipPaths和绝对位置)
