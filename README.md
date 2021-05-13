@@ -10,6 +10,7 @@
 
 ## Vue中使用fabric.js
 方法一：
+
 先安装fabricjs
 ```bash
 npm i fabric --save
