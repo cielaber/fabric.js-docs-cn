@@ -9,6 +9,19 @@
 3、本系列代码使用vue语法，每篇文章的第一个代码片段会有标签和样式部分，其他代码无特殊情况只放部分mounted(){}中的代码或与上文没有重复的核心代码。
 
 ## Vue中使用fabric.js
+方法一：
+先安装fabricjs
+```bash
+npm i fabric --save
+```
+在main.js中使用
+```js
+import fabric from "fabric"
+Vue.use(fabric)
+```
+如果方法一无效可以使用方法二⬇️
+
+方法二：
 ```bash
 #需要先安装canvas
 npm i canvas --save
